@@ -1,0 +1,15 @@
+.header {
+    background: #1abc9c;
+    color: white;
+    font-size: 30px;
+}
+
+.header__components {
+    display: flex;
+    align-items: center;
+    padding: 20px; 
+}
+
+.header__components h1{
+    padding: 10px;
+}
